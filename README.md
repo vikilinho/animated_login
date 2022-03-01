@@ -1,6 +1,6 @@
 # animatedlogin
 
-A new Flutter project.
+A simple mobile app built with Flutter that shows how to animate a screen.
 
 ## Getting Started
 
